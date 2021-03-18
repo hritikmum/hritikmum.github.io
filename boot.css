@@ -259,21 +259,12 @@ footer {
   justify-content: flex-end;
   width: 100%;
   background-color: rgb(52, 3, 71);
+  color: white;
+  text-align: center;
 }
 
-.copy {
-  font-size: 1.5vw;
-  height: 3vw;
+.copyright {
+  margin-top: 10vh;
+  margin-right: 85vh;
   text-align: center;
-  width: 100%;
-  background-color: rgb(16, 141, 172);
-}
-.gap {
-  color: white;
-  opacity: 0.5;
-}
-.h-four {
-  color: white;
-  opacity: 0.8;
-  font-size: 18px;
 }
